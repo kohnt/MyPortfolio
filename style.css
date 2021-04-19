@@ -59,7 +59,8 @@ ul li a{
 #about{
     width: 600px;
     float: left;
-    color: teal;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
 }
 
 #footer{
