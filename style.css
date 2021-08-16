@@ -63,6 +63,16 @@ ul li a{
     font-size: 18px;
 }
 
+#Ambitions{
+    width: 600px;
+    float: left;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+
+
+
 #footer{
     clear: both;
     padding: 10px;
